@@ -5,7 +5,7 @@
 
 **Result:** The final model prioritizes sensitivity, achieving a **Recall of 90%** for the churn class. This means the model successfully identifies **9 out of 10** at-risk customers, ensuring minimal opportunities for churn are missed, even at the cost of higher False Positives.
 
-**OBS!** Even though main.py is the entry point of the app, every process is also repeated in notebooks/analysis.ipynb. It also creates an output file named all_customers_risk_report.csv in its current path.
+**OBS!** Even though main.py is the entry point of the app, every process is also repeated in notebooks/analysis.ipynb file for presentation purposes. It also creates an output file named all_customers_risk_report.csv in its current path which is identical to main.py's output.
 
 ## 2. Dataset Description
 The analysis utilizes the Telco Customer Churn dataset (7,032 records), comprising 21 features:
