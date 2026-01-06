@@ -126,8 +126,8 @@ Generating ROC Curve...
 
 Full report saved to 'all_customers_risk_report.csv'
 Pipeline completed successfully.
-
-### Model Precision
+   ```
+### Model Result
 --- Classification Report (Threshold: 0.3) ---
               precision    recall  f1-score   support
 
@@ -137,7 +137,7 @@ Pipeline completed successfully.
     accuracy                           0.64      1407
    macro avg       0.68      0.73      0.63      1407
 weighted avg       0.80      0.64      0.66      1407
-   ```
+
 
 ## 8. Results & Achievements
 
